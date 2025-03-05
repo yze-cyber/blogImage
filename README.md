@@ -1,2 +1,2 @@
 # blogImage
-save blog images
+save bTypora images
